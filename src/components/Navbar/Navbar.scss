@@ -1,0 +1,52 @@
+
+#navbar{
+    background-color: #0C1618;
+    display:flex;
+    flex-direction: column;
+    width: 30%;
+    height: 100vh;
+    margin-top: 25px;
+    
+    
+}
+
+#icones{
+    margin-top: 15px;
+    display:flex;
+    flex-direction: column;
+    background-color: #0C1618;
+    
+
+span{
+    display: block;
+}
+&:hover{
+    span{
+        cursor: pointer;
+    }
+}
+}
+.icones-navbar{
+    background-color: #0C1618;
+    color: #63ACBB;
+    
+    
+}
+
+button{
+    width: 250px;
+    height: 50px;
+    color: #63ACBB;
+    border-radius: 10px;
+    background-color: #0C1618;
+    align-items:center;
+    
+    
+}
+.IconeDiv{
+    display:column;
+    align-items:center;
+    justify-content: center;
+    
+    
+}

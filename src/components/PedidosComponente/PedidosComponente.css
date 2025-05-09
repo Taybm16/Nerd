@@ -1,0 +1,51 @@
+#PedidosComponenteContainer{
+    width: 850px;
+}
+h2{
+    text-align: start;
+    text-transform: uppercase;
+    color: #63ACBB;
+
+}
+
+.PedidosCardComponentePai {
+
+    background-color: #63ACBB;
+    border-radius: 15px;
+    width: 100%;
+    padding: 35px;
+    margin: 40px;
+    height: fit-content;
+
+    
+    p{
+        margin:5px
+        text-transform: uppercase;
+    }
+    .status{
+        font-size: 13px;
+        text-transform: capitalize;
+    }
+
+
+}
+
+.produto{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+   
+
+    img{
+        width: 100px;
+    }
+    h3{
+        margin: 20px;
+        font-weight: 900;
+    }
+    p{
+        font-size: 16px;
+        width: 300px;
+        margin: 20px;
+    }
+}

@@ -1,0 +1,61 @@
+
+.divCriarContaPai{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  margin-top: 60px;
+  background-color: #0C1618;
+  width: 100%;
+    
+  
+}
+.divCriarContaFilho1 button{
+  border: none;
+}
+
+.divfilho2 .input-field{
+    position: relative ;
+    height: 40px;
+    margin: 20px auto;
+   
+
+}
+.divfilho2 h1{
+    text-align: center;
+    font-size: 30px;
+    color: #63ACBB;
+    width: 450px;
+    
+    
+  }
+
+.input-field input{
+    align-items: center;
+    width: 100%;
+    height: 100%;
+    background-color: #63ACBB;
+    border-radius: 15px;
+    outline: none;
+    border: none;
+    font-size: 16px;
+    color: #0C1618;
+    padding: 20px 50px ;
+  
+  }
+
+  .input-field input::placeholder{
+    color: #0C1618;
+   
+  }
+ .botões button{
+  border-radius: 20px;
+}
+ .botões{
+   display: flex;
+   gap: 10px;
+   width: 100%
+
+    
+  }
+  
+ 
